@@ -16,14 +16,14 @@ El concepto con el que se trabajó fue con un ámbito de estudiantes, dónde cad
 Para acceder a los métodos, sólo hace falta crear una instancia de la clase _lista_, y acceder a los métodos pasando los parámetros adecuados.
 **_Ejemplo_**
 
-##### Se crea una instancia de la lista
+#### Se crea una instancia de la lista
 
-instancia_lista = ListaDoblementeEnlazada()
+- instancia_lista = ListaDoblementeEnlazada()
 
-##### Se le ingresan datos
+#### Se le ingresan datos
 
-instancia_lista.insertar_al_inicio("**nombre**", "**apellido**", **carnet**)
+- instancia_lista.insertar_al_inicio("**nombre**", "**apellido**", **carnet**)
 
-##### Se imprimen los datos ingresados en la lista
+#### Se imprimen los datos ingresados en la lista
 
-instancia_lista.mostrar_datos()
+- instancia_lista.mostrar_datos()
